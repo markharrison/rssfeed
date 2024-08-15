@@ -2,10 +2,10 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
+  <title>MH GitHub Feed</title>
+  <link>https://github.com/markharrison</link>
   <pubDate>Thu, 15 Aug 2024</pubDate>
-  <description>Free web building tutorials</description>
+  <description>MH GitHub Feed</description>
   <item>
     <title>RSS Tutorial</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
